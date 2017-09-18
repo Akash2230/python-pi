@@ -2,8 +2,9 @@
 
 def main(msg):
 
-// adding a differnt comment
-// Print a message
+#another comment broooooooo
+# adding a differnt comment
+# Print a message
 
     print(msg)
 main("hello people")
